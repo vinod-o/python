@@ -5,3 +5,5 @@ for char in text:
 print(f" reversed string is : {rev}")
 
 print("stash")
+int = 3
+
